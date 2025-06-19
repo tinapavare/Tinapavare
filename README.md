@@ -61,7 +61,7 @@ me.say_hi()
 
 - Git Bash y flujos de trabajo en GitHub
 - Medidas avanzadas en DAX (Udemy)
-- Técnicas de dashboard en Visual Studio Code
+- Técnicas de dashboard 
 
 ## 👯 Buscando colaborar en
 
