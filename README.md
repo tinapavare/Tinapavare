@@ -100,7 +100,7 @@ graph LR
 <div align="center">
   
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinapaolavarela@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tinapaola)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tinapavare)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 </div>
@@ -110,12 +110,20 @@ graph LR
 ## <div align="center">📊 **GitHub Analytics** 📊</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinapaola&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinapaola&layout=compact&theme=radical&border_radius=10"/>
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinapavare&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/tinapavare)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinapavare&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tinapavare)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tinapavare&theme=tokyonight&hide_border=true)](https://github.com/tinapavare)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinapaola&theme=radical&border_radius=10" alt="GitHub Streak"/>
+  
+### 📈 **Activity Graph**
+[![Tina's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tinapavare&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/tinapavare)
+
 </div>
 
 ---
@@ -140,7 +148,7 @@ graph LR
   
 ### 💭 *"Data is not just numbers, it's stories waiting to be told"* 💭
 
-![Profile Views](https://komarev.com/ghpvc/?username=tinapaola&color=FF6B9D&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=tinapavare&color=FF6B9D&style=for-the-badge)
 
 **⭐ Don't forget to star my repositories if you find them interesting! ⭐**
 
