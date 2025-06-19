@@ -1,89 +1,151 @@
-<h1 align="center"><b>Hi , I'm Tina Paola Varela </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Tina+Paola+Varela+%F0%9F%91%8B;Data+Analyst+%7C+Python+Enthusiast;Turning+Data+into+Insights+%F0%9F%93%8A;Welcome+to+my+GitHub!)</div>
 
-<img align="right" width=300px alt="Data Analysis" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Data Analysis"/>
+</div>
 
-# 👩‍💻 Tina Paola Varela, Colombia | Junior Data Analyst
+---
+
+## <div align="center">🚀 **About Me** 🚀</div>
 
 <div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/-tinapaolavarela@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tinapaolavarela@gmail.com)](mailto:tinapaolavarela@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/tinapaola?label=Follow&style=social)](https://github.com/tinapaola)
+```python
+class TinaPaolaVarela:
+    def __init__(self):
+        self.name = "Tina Paola Varela"
+        self.location = "Colombia 🇨🇴"
+        self.role = "Junior Data Analyst"
+        self.passion = "Transforming data into actionable insights"
+        self.education = ["Keycode Bootcamp", "Talento Tech"]
+        self.languages = ["Spanish", "English"]
+        self.hobbies = ["🧁 Baking", "🎨 Art", "🤘 Metal Music", "🌲 Nature"]
+    
+    def current_focus(self):
+        return [
+            "📊 Building interactive dashboards",
+            "🐍 Mastering Python for data science",  
+            "📈 Learning advanced DAX measures",
+            "🤝 Contributing to open source projects"
+        ]
+
+me = TinaPaolaVarela()
+print("¡Hola! Let's explore the world of data together! 🌟")
+```
 
 </div>
 
-## 📊 About Me
+---
 
-```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Tina Paola Varela"
-        self.role = "Data Analyst"
-        self.education = ["Keycode Bootcamp", "Talento Tech"]
-        self.language_spoken = ["es_ES", "en_US"]
-    
-    def say_hi(self):
-        print("¡Hola! Gracias por visitar mi perfil de GitHub. ¡Exploremos el mundo de los datos juntos!")
-
-me = DataAnalyst()
-me.say_hi()
-```
-
-## 🚀 Habilidades
+## <div align="center">🛠️ **Tech Arsenal** 🛠️</div>
 
 <div align="center">
-  
+
+### Programming & Analysis
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools & Platforms
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
-## 🔍 Lo que hago
+---
 
-- **Exploración de datos**: Transformo datos crudos en insights accionables
-- **Limpieza de datos**: Preparo datasets para análisis óptimos
-- **Visualización**: Creo dashboards interactivos en Power BI y Looker Studio
-- **Análisis estadístico**: Extraigo patrones y tendencias significativas
-- **Automatización**: Desarrollo modelos predictivos automatizados
-
-## 🌱 Actualmente aprendiendo
-
-- Git Bash y flujos de trabajo en GitHub
-- Medidas avanzadas en DAX (Udemy)
-- Técnicas de dashboard 
-
-## 👯 Buscando colaborar en
-
-- Proyectos de código abierto relacionados con análisis de datos
-- Iniciativas de ciencia de datos para impacto social
-- Comunidades de aprendizaje en data science
-
-## ⚡ Fuera del mundo tech
-
-```
-🧁 Hornear pasteles | 🎨 Pintar y dibujar | 🤘 Brutal Death Metal | 🌲 Explorar la naturaleza
-```
-
-## 📈 GitHub Stats
+## <div align="center">💼 **What I Do** 💼</div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinapaola&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+| 🔍 **Data Exploration** | 🧹 **Data Cleaning** | 📊 **Visualization** | 📈 **Statistical Analysis** |
+|:---:|:---:|:---:|:---:|
+| Transform raw data into meaningful insights | Prepare datasets for optimal analysis | Create interactive dashboards | Extract patterns and trends |
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300" alt="Data Visualization"/>
+</div>
+
+---
+
+## <div align="center">🌱 **Currently Learning** 🌱</div>
+
+<div align="center">
+  
+```mermaid
+graph LR
+    A[🔄 Git Workflows] --> B[📊 Advanced DAX]
+    B --> C[🤖 Machine Learning]
+    C --> D[☁️ Cloud Analytics]
+    D --> E[🎯 Advanced Python]
+```
+
+</div>
+
+---
+
+## <div align="center">🤝 **Let's Connect** 🤝</div>
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinapaolavarela@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tinapaola)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+---
+
+## <div align="center">📊 **GitHub Analytics** 📊</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinapaola&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinapaola&layout=compact&theme=radical&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinapaola&theme=radical&border_radius=10" alt="GitHub Streak"/>
+</div>
+
+---
+
+## <div align="center">🎯 **Fun Facts About Me** 🎯</div>
+
+<div align="center">
+
+```
+🧁 I bake the most delicious cakes while debugging code
+🎨 My art skills help me create beautiful data visualizations  
+🤘 Brutal Death Metal fuels my coding sessions
+🌲 Nature walks inspire my best analytical insights
+☕ Coffee + Data = Perfect combination
+```
+
 </div>
 
 ---
 
 <div align="center">
   
-  *"Los datos son el nuevo petróleo. Es valioso, pero si no está refinado no puede usarse realmente."*
-  
-  ⭐️ ¡No dudes en contactarme para colaboraciones o consultas! ⭐️
-  
+### 💭 *"Data is not just numbers, it's stories waiting to be told"* 💭
+
+![Profile Views](https://komarev.com/ghpvc/?username=tinapaola&color=FF6B9D&style=for-the-badge)
+
+**⭐ Don't forget to star my repositories if you find them interesting! ⭐**
+
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Thank you"/>
 </div>
