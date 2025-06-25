@@ -1,9 +1,8 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Tina+Paola+Varela+%F0%9F%91%8B;Data+Analyst+%7C+Python+Enthusiast;Turning+Data+into+Insights+%F0%9F%93%8A;Welcome+to+my+GitHub!)</div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Data Analysis"/>
-</div>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tinapavare/tinapavare/main/muñeca.jpeg" alt="Perfil" width="300"/>
+</p>
 ---
 
 ## <div align="center">🚀 **About Me** 🚀</div>
