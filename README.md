@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tinapavare/tinapavare/main/muñeca.jpeg" alt="Perfil" width="300"/>
 </p>
----
+
 
 ## <div align="center">🚀 **About Me** 🚀</div>
 
